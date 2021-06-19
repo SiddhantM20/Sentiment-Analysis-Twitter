@@ -1,0 +1,77 @@
+MINI PROJECT
+REPORT
+
+Name: Siddhant Mishra
+UniversityRollNo.:2013521
+Section: E
+
+Course: B. Tech CSE
+
+Semester: 6"
+
+Problem statement-
+Sentimental Analysis of Twitter
+
+Motivation to do the project-
+
+Sentiment analysis is extremely useful in social media monitoring as it allows
+us to gain an overview of the wider public opinion behind certain topics.
+Social media monitoring tools like Brand watch Analytics make that process
+quicker and easier than ever before, thanks to real-time monitoring
+capabilities.
+
+The applications of sentiment analysis are broad and powerful. The ability to
+extract insights from social data is a practice that is being widely adopted by
+organizations across the world.
+
+Shifts in sentiment on social media have been shown to correlate with shifts
+in the stock market.
+
+The Obama administration used sentiment analysis to gauge public opinion
+to policy announcements and campaign messages ahead of 2012
+presidential election. Being able to quickly see the sentiment behind
+everything from forum posts to news articles means being better able to
+strategies and plan for the future.
+
+It can also be an essential part of your market research and customer service
+approach. Not only can you see what people think of your own products or
+services, you can see what they think about your competitors too. The overall
+customer experience of your users can be revealed quickly with sentiment
+analysis, but it can get far more granular too.
+
+Methodology Followed-
+« Data Collection
+
+Consumers usually express their sentiments on public forums like the blogs,
+discussion boards, product reviews as well as on their private logs — Social
+network sites like Facebook and Twitter. Opinions and feelings are expressed
+in different way, with different vocabulary, context of writing, usage of short
+forms and slang, making the data huge and disorganized.
+
+« Text Preparation
+
+Text preparation is nothing but filtering the extracted data before analysis. It
+includes identifying and eliminating non-textual content and content that is
+irrelevant to the area of study from the data.
+
+« Sentiment Detection
+
+At this stage, each sentence of the review and opinion is examined for
+subjectivity. Sentences with subjective expressions are retained and that
+which conveys objective expressions are discarded. Sentiment analysis is
+done at different levels using common computational techniques like
+Unigrams, lemmas, negation and so on.
+« Sentiment Classification
+
+Sentiments can be broadly classified into two groups, positive and negative.
+At this stage of sentiment analysis methodology, each subjective sentence
+detected 1s classified into groups-positive, negative, good, bad, like, dislike.
+
+« Presentation of Output
+
+The main idea of sentiment analysis is to convert unstructured text into
+meaningful information. After the completion of analysis, the text results are
+displayed on graphs like pie chart, bar chart and line graphs.
+
+Thankyou Sir
+
